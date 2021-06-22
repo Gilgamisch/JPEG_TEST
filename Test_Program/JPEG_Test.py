@@ -17,6 +17,7 @@ participantInfo = ""
 votingResults = []
 participateID = 0
 firstTwoEntries = 0
+practiceValues = []
 
 
 def disable_children(parent):
@@ -276,7 +277,7 @@ class MasterFrame(tk.Frame):
         self.imageCount = len(self.imagePaths)
         self.init = False
         self.folderPath = application_path +"/images/out/"
-        self.practiceValues = [35,85,98,25]
+        self.practiceValues = practiceValues
         self.test_routine()
 
 
