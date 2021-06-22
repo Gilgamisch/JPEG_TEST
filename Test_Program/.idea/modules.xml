@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test_Program.iml" filepath="$PROJECT_DIR$/.idea/Test_Program.iml" />
+      <module fileurl="file://$USER_HOME$/transformer-for-time-series-analysis/.idea/transformer-for-time-series-analysis.iml" filepath="$USER_HOME$/transformer-for-time-series-analysis/.idea/transformer-for-time-series-analysis.iml" />
+    </modules>
+  </component>
+</project>
